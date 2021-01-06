@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🎨 I’m currently working in batch and C# projects
+- 🪐 I’m currently working in batch and C# projects
 - 📌 I’m currently learning C# and C++
 - ✨ Contact: vyxt#0009
 <img src="https://media.discordapp.net/attachments/783646767451340830/795873299602604032/download_1.gif">
