@@ -2,7 +2,7 @@
 - 🪐 I’m currently working in batch and C# projects
 - 📌 I’m currently learning C# and C++
 - ✨ Contact: vyxt#0009
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdata.whicdn.com%2Fimages%2F306824705%2Foriginal.gif&f=1&nofb=1">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2d%2Fa1%2F45%2F2da14528aa3c8fd6132e01d67696993c.gif&f=1&nofb=1">
 <!--
 **vyxt/vyxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
