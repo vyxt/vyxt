@@ -4,6 +4,8 @@
 - 🎓 I’m currently learning C# and C++.
 - 🖤 2021 Goal: Fully learn the languages I am studying.
 
+### Github Status 💫
+
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=vyxt&count_private=true&theme=nightowl&show_icons=true)
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2d%2Fa1%2F45%2F2da14528aa3c8fd6132e01d67696993c.gif&f=1&nofb=1">
