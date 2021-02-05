@@ -1,8 +1,14 @@
-### Hey! 👋
+### Hello! 👋
 
 - 💞 I’m currently working in batch and C# projects.
-- 🎓 I’m currently learning C#, C++, HTML & CSS.
 - 🖤 2021 Goal: Fully learn the languages I am studying.
+
+### ⚙️ Languages 
+
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="" />
+<img align="left" alt="CSS3" width="26px" src=""/>
 
 ### 🛠️ Github Status 
 
