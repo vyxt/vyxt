@@ -4,7 +4,8 @@
 - 🎓 I’m currently learning C#, C++, HTML & CSS.
 - 🖤 2021 Goal: Fully learn the languages I am studying.
 
-### Github Status 💫
+### - 🛠️ Github Status 
+- 
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=vyxt&count_private=true&theme=nightowl&show_icons=true)
 
