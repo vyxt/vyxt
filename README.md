@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 - 💞 I’m currently working in batch and C# projects.
-- 🎓 I’m currently learning C# and C++.
+- 🎓 I’m currently learning C#, C++, HTML & CSS.
 - 🖤 2021 Goal: Fully learn the languages I am studying.
 
 ### Github Status 💫
