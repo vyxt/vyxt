@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-💞 I’m currently working in batch and C# projects.
-- 🖤 2021 Goal: Fully learn the languages I am studying.
+<💞 I’m currently working in batch and C# projects./>
+<🖤 2021 Goal: Fully learn the languages I am studying./>
 
 ### ⚙️ Languages 
 
