@@ -17,11 +17,9 @@
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UC8QsLK1W-tUaNuxtscgvOBw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="My Discord" height="30" width="40" /></a>
-</p>
 <p align="left">
-  <a href="" target="blank">img align="center" src=https://simpleicons.org/icons/discord.svg""
+  <a href="" target="blank">img align="center" src="https://simpleicons.org/icons/discord.svg""
     alt = My Discord" width="26px" src=""/></a>
-  </p:
 
 
 
