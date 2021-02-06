@@ -11,14 +11,13 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
 <br />
-<br />
 
 ## 📞 Connect with me
 
 <p align="left">
-<a href="https://www.youtube.com/channel/UC8QsLK1W-tUaNuxtscgvOBw" target="blank"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" 
+<a href="https://www.youtube.com/channel/UC8QsLK1W-tUaNuxtscgvOBw" target="blank"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg">
 <p align="left">
-<a href="https://discord.gg/tcDX5gUEnf" target="blank"><img align="left" width="26px" src="https://simpleicons.org/icons/discord.svg"/>
+<a href="https://discord.gg/tcDX5gUEnf" target="blank"><img align="left" width="26px" src="https://simpleicons.org/icons/discord.svg">
                                       
 <br />
 
