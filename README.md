@@ -3,7 +3,7 @@
 - 💞 I’m currently working in batch and C# projects.
 - 🖤 2021 Goal: Fully learn the languages I am studying.
 
-### ⚙️ Languages 
+## ⚙️ Languages 
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-### 📞 Connect with me
+## 📞 Connect with me
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UC8QsLK1W-tUaNuxtscgvOBw" target="blank"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" 
@@ -22,16 +22,12 @@
                                       
 <br />
 
-### 🎓 Github Status
-
-<br />
+## 🎓 Github Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=vyxt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <br />
 <br />
-
-###
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2d%2Fa1%2F45%2F2da14528aa3c8fd6132e01d67696993c.gif&f=1&nofb=1">
 <!--
