@@ -19,6 +19,7 @@
 <a href="https://discord.gg/tcDX5gUEnf" target="blank"><img align="left" width="26px" src="https://simpleicons.org/icons/discord.svg"/>
                                       
 <br />
+<br />
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2d%2Fa1%2F45%2F2da14528aa3c8fd6132e01d67696993c.gif&f=1&nofb=1">
 <!--
